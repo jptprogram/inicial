@@ -1,0 +1,40 @@
+.card-trip {
+  margin-top: 10px;
+  overflow: hidden;
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 2px;
+  height: 48px;
+  border: 16px;
+  border-radius: 8px;
+}
+
+
+.card-trip h2 {
+  font-size: 16px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.card-trip p {
+  font-size: 12px;
+  opacity: .7;
+  margin: 0;
+}
+
+.show-consultas{
+  margin-left: 24px;
+  width: 1800px;
+  font-family:sans-serif;
+}
+
+.card-trip .card-trip-infos {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  border-radius: 2px;
+  height: 48px;
+
+}
